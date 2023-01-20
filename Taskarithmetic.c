@@ -6,6 +6,11 @@ a=14;
 b=6;
 c=a+b;
 printf("ADDITION: %d,%d,%d",a,b,c);
+
+//sub
+c=a-b;
+printf("subraction: %d,%d,%d",a,b,c);
+
 //mul
 c=a*b;
 printf("MULTIPLICATION: %d,%d,%d",a,b,c);
