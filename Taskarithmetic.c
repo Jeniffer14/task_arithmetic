@@ -14,6 +14,10 @@ printf("subraction: %d,%d,%d",a,b,c);
 //mul
 c=a*b;
 printf("MULTIPLICATION: %d,%d,%d",a,b,c);
+//Div
+c=a/b;
+printf("DIVISION: %d,%d,%d",a,b,c);
+
 return 0;
 }
 
