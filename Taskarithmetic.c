@@ -18,6 +18,9 @@ printf("MULTIPLICATION: %d,%d,%d",a,b,c);
 c=a/b;
 printf("DIVISION: %d,%d,%d",a,b,c);
 
+//modules
+c=a%b;
+printf("MODULES:%d,%d,%d",a,b,c);
 return 0;
 }
 
